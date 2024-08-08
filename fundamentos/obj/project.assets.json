@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yarlley\\Documents\\Programação\\diobootcamp\\fundamentos\\fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\fundamentos\\fundamentos.csproj",
       "projectName": "fundamentos",
-      "projectPath": "C:\\Users\\Yarlley\\Documents\\Programação\\diobootcamp\\fundamentos\\fundamentos.csproj",
+      "projectPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\fundamentos\\fundamentos.csproj",
       "packagesPath": "C:\\Users\\Yarlley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yarlley\\Documents\\Programação\\diobootcamp\\fundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yarlley\\AppData\\Roaming\\NuGet\\NuGet.Config"
