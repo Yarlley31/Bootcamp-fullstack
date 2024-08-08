@@ -1,0 +1,14 @@
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\bin\Debug\net8.0\fundamentos.exe
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\bin\Debug\net8.0\fundamentos.deps.json
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\bin\Debug\net8.0\fundamentos.runtimeconfig.json
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\bin\Debug\net8.0\fundamentos.dll
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\bin\Debug\net8.0\fundamentos.pdb
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfo.cs
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\fundamentos.dll
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\refint\fundamentos.dll
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\fundamentos.pdb
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\fundamentos.genruntimeconfig.cache
+C:\Users\Yarlley\Documents\Programação\diobootcamp\fundamentos\obj\Debug\net8.0\ref\fundamentos.dll
