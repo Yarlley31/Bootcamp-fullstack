@@ -6,7 +6,7 @@
 // Pessoa1.Idade = 17;
 // Pessoa1.Apresentar(); 
 
-int quantidadeEmEstoque = 10;
+int quantidadeEmEstoque = 3;
 int quantidadeCompra = 4;
 bool possívelCompra = quantidadeEmEstoque >= quantidadeCompra;
 
