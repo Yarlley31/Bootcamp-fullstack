@@ -6,22 +6,56 @@
 // Pessoa1.Idade = 17;
 // Pessoa1.Apresentar(); 
 
-int quantidadeEmEstoque = 3;
-int quantidadeCompra = 4;
-bool possívelCompra = quantidadeEmEstoque >= quantidadeCompra;
 
-Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
-Console.WriteLine($"Quantidade de compra: {quantidadeCompra}");
-Console.WriteLine($"É possível realizar a compra? {possívelCompra}");
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
 
-if (possívelCompra)
+switch (letra)
 {
-    Console.WriteLine("Compra Realizada");
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("É vogal");
+        break;
+
+    default:
+        Console.WriteLine("Não é vogal");
+        break;
 }
-else
-{
-    Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque.");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+// int quantidadeEmEstoque = 3;
+// int quantidadeCompra = 0;
+// bool possívelCompra = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade de compra: {quantidadeCompra}");
+// Console.WriteLine($"É possível realizar a compra? {possívelCompra}");
+
+// if (quantidadeCompra == 0)
+// {
+//     Console.WriteLine("Por favor, selecione no mínimo um produto");
+// }
+// else if (possívelCompra)
+// {
+//     Console.WriteLine("Compra Realizada");
+// }
+// else
+// {
+//     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque.");
+// }
 
 
 
