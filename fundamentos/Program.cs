@@ -8,7 +8,9 @@
 
 
 Console.WriteLine("Digite uma letra");
+#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
 string letra = Console.ReadLine();
+#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
 
 switch (letra)
 {
