@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.InteropServices.Marshalling;
 using System.Threading.Tasks;
 
-namespace fundamentos.models
+namespace ExemploFundamentos.Common.Models
 {
     public class Pessoa
     {
@@ -13,7 +13,7 @@ namespace fundamentos.models
         public string? NomeRepresentateLegalDaPessoaFísica { get; set; }
         public void Apresentar()
         {
-            Console.WriteLine($"Olá, meu nome é {Nome},\ne tenho {Idade} anos.");
+            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos.");
         }
     }
 }

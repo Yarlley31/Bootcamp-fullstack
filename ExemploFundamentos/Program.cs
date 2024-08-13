@@ -1,43 +1,52 @@
-﻿using fundamentos.models;
+﻿using ExemploFundamentos.Common.Models;
 
-string opcao;
-bool exibirMenu = true;
+Pessoa pessoa1 = new Pessoa();
+pessoa1.Nome = "Yarlley";
+pessoa1.Idade= 20;
+pessoa1.Apresentar();
 
-while(exibirMenu)
-{
-    Console.Clear();
-    Console.WriteLine("Digite a sua opção: ");
-    Console.WriteLine("1 - Cadastrar cliente");
-    Console.WriteLine("2 - Buscar cliente");
-    Console.WriteLine("3 - Apagar cliente");
-    Console.WriteLine("4 - Encerrar");
 
-#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
-    opcao = Console.ReadLine();
-#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
 
-    switch (opcao)
-    {
-        case "1":
-            Console.WriteLine("Cadastro de cliente");
-            break;
-        case "2":
-            Console.WriteLine("Busca de cliente");
-            break;
-        case "3":
-            Console.WriteLine("Apagar cliente");
-            break;
-        case "4":
-            Console.WriteLine("Encerrado");
-            exibirMenu = false;
-            // Environment.Exit(0);
-            break;
-        default:
-            Console.WriteLine("Opção inválida");
-            break;
-    }
-}
-Console.WriteLine("Programa encerrado");
+
+
+// string opcao;
+// bool exibirMenu = true;
+
+// while(exibirMenu)
+// {
+//     Console.Clear();
+//     Console.WriteLine("Digite a sua opção: ");
+//     Console.WriteLine("1 - Cadastrar cliente");
+//     Console.WriteLine("2 - Buscar cliente");
+//     Console.WriteLine("3 - Apagar cliente");
+//     Console.WriteLine("4 - Encerrar");
+
+// #pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
+//     opcao = Console.ReadLine();
+// #pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
+
+//     switch (opcao)
+//     {
+//         case "1":
+//             Console.WriteLine("Cadastro de cliente");
+//             break;
+//         case "2":
+//             Console.WriteLine("Busca de cliente");
+//             break;
+//         case "3":
+//             Console.WriteLine("Apagar cliente");
+//             break;
+//         case "4":
+//             Console.WriteLine("Encerrado");
+//             exibirMenu = false;
+//             // Environment.Exit(0);
+//             break;
+//         default:
+//             Console.WriteLine("Opção inválida");
+//             break;
+//     }
+// }
+// Console.WriteLine("Programa encerrado");
 
 
 
