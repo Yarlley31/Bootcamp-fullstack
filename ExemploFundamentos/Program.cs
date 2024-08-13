@@ -12,9 +12,11 @@ while(exibirMenu)
     Console.WriteLine("3 - Apagar cliente");
     Console.WriteLine("4 - Encerrar");
 
+#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
     opcao = Console.ReadLine();
+#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
 
-    switch(opcao)
+    switch (opcao)
     {
         case "1":
             Console.WriteLine("Cadastro de cliente");
