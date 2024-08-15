@@ -1,9 +1,68 @@
 ﻿using ExemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "Yarlley";
-pessoa1.Idade= 20;
-pessoa1.Apresentar();
+List<string> listaString = new();
+
+listaString.Add("BA");
+listaString.Add("PE");
+listaString.Add("RJ");
+
+
+Console.WriteLine("Percorrendo a lista com For");
+Console.WriteLine("----------------------------");
+
+for(int contador = 0; contador < listaString.Count; contador++)
+{
+    Console.WriteLine($"Posição N° {contador} - {listaString[contador]}");
+}
+
+Console.WriteLine("--------------------------------");
+Console.WriteLine("Percorrendo a lista com ForEach");
+Console.WriteLine("--------------------------------");
+
+int contadorForEach = 0;
+foreach(string item in listaString)
+{
+    Console.WriteLine($"Posição N° {contadorForEach} - {item}");
+}
+
+
+
+
+
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 82;
+// arrayInteiros[2] = 92;
+// arrayInteiros[3] = 102;
+
+// Console.WriteLine("Percorrendo o array com For");
+
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+// Console.WriteLine("Percorrendo o array com ForEach");
+
+// int contadorForEach = 0;
+// foreach(int valor in arrayInteiros) // usar o for each quando nao precisa do contador
+// {
+//     Console.WriteLine($"posição N° {contadorForEach} - {valor}");
+//     contadorForEach++;
+// }
+
+// // Copiando um array para outro
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+
+
+
+// Pessoa pessoa1 = new Pessoa();
+// pessoa1.Nome = "Yarlley";
+// pessoa1.Idade= 20;
+// pessoa1.Apresentar();
 
 
 
