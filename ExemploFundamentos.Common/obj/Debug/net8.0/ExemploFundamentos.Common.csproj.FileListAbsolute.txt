@@ -10,3 +10,15 @@ C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack\ExemploFundamentos.C
 C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack\ExemploFundamentos.Common\obj\Debug\net8.0\refint\ExemploFundamentos.Common.dll
 C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.pdb
 C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack\ExemploFundamentos.Common\obj\Debug\net8.0\ref\ExemploFundamentos.Common.dll
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.deps.json
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.sourcelink.json
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\refint\ExemploFundamentos.Common.dll
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Users\Yarlley\Documents\Programação\Bootcamp-fullstack-fundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ref\ExemploFundamentos.Common.dll

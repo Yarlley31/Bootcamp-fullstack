@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\ExemploFundamentos\\fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack-fundamentos\\ExemploFundamentos\\fundamentos.csproj",
       "projectName": "fundamentos",
-      "projectPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\ExemploFundamentos\\fundamentos.csproj",
+      "projectPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack-fundamentos\\ExemploFundamentos\\fundamentos.csproj",
       "packagesPath": "C:\\Users\\Yarlley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\ExemploFundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack-fundamentos\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yarlley\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "C:\\Users\\Yarlley\\Documents\\Programação\\Bootcamp-fullstack-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }
